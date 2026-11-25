@@ -6,7 +6,7 @@ An **interactive web app** that visualizes **39 internet protocols** with isomet
 
 ## Demo
 
-**Watch the demo:** [`launch_2_xray_scrollstopper.mp4`](./launch_2_xray_scrollstopper.mp4)
+[![Watch the demo](./thumbnail.png)](./launch_2_xray_scrollstopper.mp4)
 
 Live link: **coming soon**.
 
